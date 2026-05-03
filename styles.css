@@ -62,11 +62,11 @@ button {
   --space-m: 1.75rem;
   --space-l: 3rem;
   --space-xl: 5rem;
-  --space-xxl: 7rem;
+  --space-xxl: 5rem;
 
   /* Layout */
   --max-prose: 65ch;
-  --max-content: 1100px;
+  --max-content: 880px;
 }
 
 /* ---- Base ---- */
@@ -329,7 +329,7 @@ section.tight {
   font-size: var(--fs-display);
   font-weight: 600;
   margin-bottom: var(--space-m);
-  max-width: 18ch;
+  max-width: 24ch;
 }
 
 .hero .subhead {
