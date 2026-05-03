@@ -1,0 +1,9 @@
+# Internal archive — pages we've removed but kept for reference
+_archive/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
