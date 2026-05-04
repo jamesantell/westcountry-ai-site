@@ -30,9 +30,9 @@ Then visit http://localhost:8000
 
 All in `styles.css` under `:root`:
 
-- Background: warm off-white `#FAF7F2`
-- Primary: deep eucalyptus green `#2D5040`
-- Accent: burnt ochre `#C25B1E`
+- Background: cool stone `#F4F2EE`
+- Primary: deep slate `#2C3239`
+- Accent: burnt sienna `#B05E3C`
 - Headings: Lora (Google Fonts)
 - Body: Inter (Google Fonts)
 - Logo: wordmark "Westcountry AI" with the wyvern icon (Wessex heraldic beast)

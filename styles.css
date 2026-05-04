@@ -30,16 +30,16 @@ button {
 
 /* ---- Design tokens ---- */
 :root {
-  /* Palette */
-  --bg: #FAF7F2;
-  --bg-alt: #F1EBDF;
-  --bg-dark: #2D5040;
-  --text: #2D2B26;
-  --text-muted: #5C5950;
-  --primary: #2D5040;
-  --accent: #C25B1E;
-  --accent-hover: #A04816;
-  --border: #E5DFD2;
+  /* Palette — Deep Slate + Burnt Sienna on cool stone */
+  --bg: #F4F2EE;
+  --bg-alt: #E8E5DE;
+  --bg-dark: #2C3239;
+  --text: #2A2C2E;
+  --text-muted: #5A5A5C;
+  --primary: #2C3239;
+  --accent: #B05E3C;
+  --accent-hover: #944A2C;
+  --border: #D8D4CC;
 
   /* Type */
   --font-heading: 'Lora', Georgia, serif;
